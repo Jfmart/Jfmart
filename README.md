@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jfmart
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning Machine Learning Algorithms and how to code them in R
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: martinezpips99@gmail.com
